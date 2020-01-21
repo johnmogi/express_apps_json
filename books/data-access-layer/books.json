@@ -1,0 +1,14 @@
+[
+    {
+        "id": 2,
+        "name": "PHP is great",
+        "price": 150,
+        "description": "js"
+    },
+    {
+        "id": 3,
+        "name": "MysQl is insane",
+        "price": 50,
+        "description": "js"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "id": 2,
+        "name": "TypeScript for Easy Programming",
+        "price": 150
+    },
+    {
+        "id": 3,
+        "name": "PHP",
+        "price": 20
+    },
+    {
+        "name": "React.js",
+        "price": 130,
+        "id": 4
+    }
+]
