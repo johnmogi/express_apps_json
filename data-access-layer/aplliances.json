@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "TV",
+        "code": "234243",
+        "manufacturer": "Samsung",
+        "price": 15,
+        "weight": 23
+    },
+    {
+        "id": 2,
+        "name": "up2",
+        "code": "234235",
+        "manufacturer": "Samsung",
+        "price": 15,
+        "weight": 3546
+    },
+    {
+        "name": "Knife",
+        "code": "24643",
+        "manufacturer": "Playmobile",
+        "price": 41414,
+        "weight": 234,
+        "id": 4
+    },
+    {
+        "id": 4,
+        "name": "newname",
+        "code": "234243",
+        "manufacturer": "Samsung",
+        "price": 15,
+        "weight": "23"
+    },
+    {
+        "id": 5,
+        "name": "newname",
+        "code": "234243",
+        "manufacturer": "Samsung",
+        "price": 15,
+        "weight": 50
+    }
+]
